@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\bin\Debug\net8.0\Jogo de adivinhação.exe
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\bin\Debug\net8.0\Jogo de adivinhação.deps.json
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\bin\Debug\net8.0\Jogo de adivinhação.runtimeconfig.json
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\bin\Debug\net8.0\Jogo de adivinhação.dll
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\bin\Debug\net8.0\Jogo de adivinhação.pdb
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.dll
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\refint\Jogo de adivinhação.dll
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.pdb
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\Jogo de adivinhação.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\Jogo de adivinhação\Jogo de adivinhação\obj\Debug\net8.0\ref\Jogo de adivinhação.dll
